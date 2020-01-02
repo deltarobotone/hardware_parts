@@ -11,6 +11,15 @@ For everyone who like to build Delta-Robot One there is a way to do this. In thi
 | [3D-Printed<br>Mechanic parts](https://github.com/deltarobotone/hardware_parts/wiki/3D-Printed-Parts) | [<img src="https://raw.githubusercontent.com/deltarobotone/image_database/master/mechanic_parts/mechanic_parts%20(7).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/3D-Printed-Parts) |
 |[Metal<br>Mechanic parts](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-parts) | [<img src="https://github.com/deltarobotone/image_database/blob/master/metal_parts/metal_parts%20(1).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic-parts) |
 |[Circuitboard Schematics](https://github.com/deltarobotone/hardware_parts/wiki/Circuitboard-Schematics) | [<img src="https://github.com/deltarobotone/image_database/blob/master/drawings/drawings%20(31).PNG" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Circuitboard-Schematics) |
+|[Layers Drawings](https://github.com/deltarobotone/hardware_parts/wiki/Layers-Drawings) | [<img src="https://github.com/deltarobotone/image_database/blob/master/layers_drawings/layers_drawings%20(1).png" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Layers-Drawings) |
+|[Mechanic Drawings](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic_Drawings) | [<img src="https://github.com/deltarobotone/image_database/blob/master/mechanic_drawings/mechanic_drawings%20(1).png" width="300">](https://github.com/deltarobotone/hardware_parts/wiki/Mechanic_Drawings)  |
+
+
+
+
+
+
+
 
 # Copyright Notice
 
